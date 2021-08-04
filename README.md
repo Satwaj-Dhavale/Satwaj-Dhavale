@@ -13,6 +13,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on AI or Deep Learning Projects
 - 💬 Ask me about Python, Pandas, Numpy, Opencv, Tensorflow, Keras, CNN, sklearn
 - 📫 How to reach me: You can mail me thesatwaj@gmail.com
-- 😄 Pronouns: I
-- ⚡ Fun fact: I love comics
-
